@@ -25,26 +25,26 @@
             <p>Le site Nolark est accessible à l'adresse suivante&nbsp;:&nbsp;nolark.gil83.fr (ci-après "<i>le site</i>"). L'accès et l'utilisation du Site sont soumis aux présentes "Mentions légales" détaillées ci-après ainsi qu'aux lois et/ou règlements applicables. La connexion, l'utilisation et l'accès à ce site impliquent l'acceptation intégrale et sans réserve de l'internaute de toutes les dispositions des présentes Mentions Légales.</p>
             <p class="titresArticles">Article 1 - Informations légales</p>
             <p>En vertu de l'Article 6 de la Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé dans cet article l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.</p>
-            <p><b>A. Éditeur du site</b></p>
+            <p class="sousTitre"><b>A. Éditeur du site</b></p>
             <p>Le site Nolark est édité par :</p>
             <p><strong>Amélia PILOU</strong></p>
             <p>domiciliée à l'adresse suivante&nbsp;:&nbsp;Avenue Winston Churchill, 83000 Toulon, et immatriculé au numéro suivant&nbsp;:&nbsp;RCS 123456789</p>
             <p>Téléphone&nbsp;:&nbsp;0102030405</p>
             <p>Adresse e-mail&nbsp;:&nbsp;contact@nolark.gil83.fr</p>
-            <p>ci-après "<i>l'Éditeur</i>"</p>
-            <p><b>B. Directeur de publication</b></p>
+            <p>c-après "<i>l'Éditeur</i>"</p>
+            <p class="sousTitre"><b>B. Directeur de publication</b></p>
             <p>Le Directeur de publication est :</p>
             <p><strong>Mario TIDUCA</strong></p>
             <p>Adresse e-mail de contact&nbsp;:&nbsp;directpub@nolark.gil83.fr</p>
             <p>ci-après "<i>le Directeur de publication</i>"</p>
-            <p><b>C. Hébergeur du site</b></p>
+            <p class="sousTitre"><b>C. Hébergeur du site</b></p>
             <p>Le site Nolark est hébergé par :</p>
             <p><strong>OVH SAS</strong></p>
             <p>dont le siège est situé à l'adresse suivante&nbsp;:&nbsp;2 rue Kellermann - BP 80157, 59100 Roubaix</p>
             <p>Téléphone&nbsp;:&nbsp;0320200958</p>
             <p>Adresse e-mail&nbsp;:&nbsp;contact@ovh.net</p>
             <p>ci-après "<i>l'Hébergeur</i>"</p>
-            <p><b>D. Utilisateurs</b></p>
+            <p class="sousTitre"><b>D. Utilisateurs</b></p>
             <p>Sont considérés comme utilisateurs tous les internautes qui naviguent, lisent, visionnent et utilisent le site Nolark.</p>
             <p>ci-après les "<i>Utilisateurs</i>"</p>
             <p class="titresArticles">Article 2 - Confidentialité</p>
