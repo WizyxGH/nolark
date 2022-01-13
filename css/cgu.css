@@ -55,3 +55,8 @@ table th {
 .paragSousTitre {
     margin-left: 50px;
 }
+
+ul.paragSousTitre li {
+    margin-left: 50px;
+    text-align: justify;
+}

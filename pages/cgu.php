@@ -48,7 +48,7 @@
             <p class="paragSousTitre">Sont considérés comme utilisateurs tous les internautes qui naviguent, lisent, visionnent et utilisent le site Nolark.</p>
             <p class="paragSousTitre">ci-après les "<i>Utilisateurs</i>"</p>
             <p class="titresArticles">Article 2 - Confidentialité</p>
-            <p class="paragSousTitre"><b>A. Données collectées et traitées</b></p>
+            <p class="sousTitre"><b>A. Données collectées et traitées</b></p>
             <p class="paragSousTitre">Conformément aux dispositions de l'article 5 du Règlement européen 2016/679, la collecte et le traitement des données des utilisateurs du site respectent les principes suivants :</p>
             <ul class="paragSousTitre">
                 <li>Licéité, loyauté et transparence&nbsp;:&nbsp;les données ne peuvent être collectées et traitées qu'avec le consentement de l'utilisateur propriétaire des données. A chaque fois que des données à caractère personnel seront collectées, il sera indiqué à l'utilisateur que ses données sont collectées, et pour quelles raisons ses données sont collectées</li>
