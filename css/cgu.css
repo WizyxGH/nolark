@@ -57,6 +57,14 @@ table th {
 }
 
 ul.paragSousTitre li {
-    margin-left: 50px;
+    margin-left: 50px; 
     text-align: justify;
+}
+
+.paragSousTitre b {
+    font-size: 13px;
+}
+
+.sousTitre-art2 {
+    margin-left: 80px;
 }
