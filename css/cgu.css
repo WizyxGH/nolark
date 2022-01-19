@@ -66,5 +66,10 @@ ul.paragSousTitre li {
 }
 
 .sousTitre-art2 {
-    margin-left: 80px;
+    margin-left: 80px; 
+}
+
+hr {
+    margin: 20px auto 20px auto;
+    align: center;
 }

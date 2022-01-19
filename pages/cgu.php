@@ -23,6 +23,7 @@
             <p id="grosTitre">Mentions légales du site</p>
             <p>Conformément aux dispositions des Articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C.E.N., il est porté à la connaissance des utilisateurs et visiteurs du site nolark.gil83.fr les présentes mentions légales.</p>
             <p>Le site Nolark est accessible à l'adresse suivante&nbsp;:&nbsp;nolark.gil83.fr (ci-après "<i>le site</i>"). L'accès et l'utilisation du Site sont soumis aux présentes "Mentions légales" détaillées ci-après ainsi qu'aux lois et/ou règlements applicables. La connexion, l'utilisation et l'accès à ce site impliquent l'acceptation intégrale et sans réserve de l'internaute de toutes les dispositions des présentes Mentions Légales.</p>
+            <hr color="#ff6811" width="15%" align="center">
             <p class="titresArticles">Article 1 - Informations légales</p>
             <p>En vertu de l'Article 6 de la Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé dans cet article l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.</p>
             <p class="sousTitre"><b>A. Éditeur du site</b></p>
@@ -47,6 +48,7 @@
             <p class="sousTitre"><b>D. Utilisateurs</b></p>
             <p class="paragSousTitre">Sont considérés comme utilisateurs tous les internautes qui naviguent, lisent, visionnent et utilisent le site Nolark.</p>
             <p class="paragSousTitre">ci-après les "<i>Utilisateurs</i>"</p>
+            <hr color="#ff6811" width="15%" align="center">
             <p class="titresArticles">Article 2 - Confidentialité</p>
             <p class="sousTitre"><b>A. Données collectées et traitées</b></p>
             <p class="paragSousTitre">Conformément aux dispositions de l'article 5 du Règlement européen 2016/679, la collecte et le traitement des données des utilisateurs du site respectent les principes suivants :</p>
@@ -173,11 +175,14 @@
                     </tr>
                 </tbody>
             </table>
+            <hr color="#ff6811" width="15%" align="center">
             <p class="titresArticles">Article 3 - accessibilité</p>
             <p>Le Site est par principe accessible aux Utilisateurs 24/24h et 7/7j, sauf interruption, programmée ou non, pour des besoins de maintenance ou en cas de force majeure.</p>
             <p>En cas d'impossibilité d'accès au Site, celui-ci s'engage à faire son maximum afin d'en rétablir l'accès. Le Site ne saurait être tenu pour responsable de tout dommage, quelle qu'en soit la nature, résultant de son indisponibilité.</p>
+            <hr color="#ff6811" width="15%" align="center">
             <p class="titresArticles">Article 4 - loi applicable et juridiction</p>
             <p>Les présentes Mentions Légales sont régies par la loi française. En cas de différend et à défaut d'accord amiable, le litige sera porté devant les tribunaux français conformément aux règles de compétence en vigueur.</p>
+            <hr color="#ff6811" width="15%" align="center">
             <p class="titresArticles">Article 5 - contact</p>
             <p>Pour tout signalement de contenus ou d'activités illicites, l'Utilisateur peut contacter l'Éditeur à l'adresse suivante&nbsp;:&nbsp;contact@nolark.gil83.fr, ou par courrier recommandé avec accusé de réception adressé à l'Éditeur aux coordonnées précisées dans les présentes mentions légales.</p>
             <p id="pfin">Le site Nolark vous souhaite une excellente navigation !</p>
